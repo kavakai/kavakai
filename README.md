@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
 
-- ⚡ Fun fact **I love outdoor sports🧗‍♀️🚴‍♂️⛷⚽️🚵‍♂️🏃‍♂️**
+- ⚡ Fun fact **I love outdoor sports 🧗‍♀️🚴‍♂️⛷⚽️🚵‍♂️🏃‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
