@@ -9,12 +9,16 @@
 
 - 📫 How to reach me **kavakai@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I love outdoor sports 🧗‍♀️🚴‍♂️⛷⚽️🚵‍♂️🏃‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kai-kuller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-kuller" height="30" width="40" /></a>
+<a href="https://instagram.com/kai_kuller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kai_kuller" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavakai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavakai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kavakai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavakai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
