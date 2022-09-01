@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kai Kuller</h1>
 <h3 align="center">A passionate, and dedicated software developer from Santa Fe, NM</h3>
 
-- 🌱 I’m currently learning **SQL, Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.kai-the-dev.com/](https://www.kai-the-dev.com/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kavakai@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I love outdoor sports 🧗‍♀️🚴‍♂️⛷⚽️🚵‍♂️🏃‍♂️**
 
