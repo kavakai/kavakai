@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kai-the-dev.com/](https://www.kai-the-dev.com/)
 
-- 💬 Ask me about **react, vue, typescript**
+- 💬 Ask me about **react, vue, typescript, node**
 
 - 📫 How to reach me **kavakai@gmail.com**
 
