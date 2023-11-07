@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kavakai@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing](https://docs.google.com/document/d/1tnJRFHCtXuqyPLK1Ae-a6kWvJlefDT0Evnistp9GQxQ/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1s3Shpq-MaMmYqJjFr17fXm05HFY7lIQS_9-Jv9tFn14/edit?usp=sharing)
 
 - ⚡ Fun fact **I love outdoor sports🧗‍♀️🚴‍♂️⛷⚽️🚵‍♂️🏃‍♂️**
 
